@@ -3,7 +3,7 @@
 # Estrutura do Projeto de Portfólio
 
 ```plaintext
-portfolio/
+Landing_Page/
 ├── index.html
 ├── style.css
 └── script.js
