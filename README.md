@@ -1,6 +1,6 @@
 # Landing_Page/develop 
 
-https://jpscard.github.io/Landing_Page/blob/develop
+https://jpscard.github.io/Landing_Page/tree/develop
 
 # Estrutura do Projeto de Portfólio
 
